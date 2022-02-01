@@ -3,9 +3,9 @@
 <form action="" method="">
 
 
-<a href="Login.php">Login</a>
-<a href="Home.php">Home</a>
-<a href="contact.php">Contact Us</a></br>
+<a href="Login">Login</a>
+<a href="Home">Home</a>
+<a href="contact">Contact Us</a></br>
 
 <h3>Course: Programming With Python</h3>
 <h4>Instructor:Mr. David </br>
